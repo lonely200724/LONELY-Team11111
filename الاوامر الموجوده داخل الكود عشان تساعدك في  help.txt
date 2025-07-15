@@ -1,0 +1,77 @@
+(الاوامر المتواجد داخل السورس)...
+
+  للاعجابات✓"/likes {uid}"
+
+للزوار✓"/visit {uid}"
+
+للمعلومات✓"/info {uid}"
+
+للسبام طلبات الصداقة✓"/spam {uid}"
+
+اسبام طلبات انضمام فريق✓"/x {uid}"
+
+اسبام رومات✓"/room {uid}"
+
+امر لاغ✓"/lag {Tea CODE"
+
+# ملحوظة امر تاغ في 3 اوامر للقوه 
+# /lag tea code 
+# /lag tea code 2
+# /lag tea code 3
+
+امر بدا اجباري✓"/start {Tea CODE}"
+
+امر بدا اجبار مع لاغ داخل الجيم✓"/attack {Tea CODE }"
+
+اوامر الفريق✓"/3,/5,/6"
+
+لفتح فريق لصديقك عبر ايدي✓"/inv {uid}"
+------------------------------------------------------------------
+Egyptian developers : KiraDevX & Muslim 
+
+"DexV Team"
+"DexV Team"
+"DexV Team"
+"DexV Team"
+"DexV Team"
+"DexV Team"
+"DexV Team"
+"DexV Team"
+"DexV Team"
+"DexV Team"
+"DexV Team"
+"DexV Team"
+"DexV Team"
+"DexV Team"
+"DexV Team"
+"DexV Team"
+"DexV Team"
+"DexV Team"
+"DexV Team"
+"DexV Team"
+"DexV Team"
+"DexV Team"
+"DexV Team"
+"DexV Team"
+"DexV Team"
+"DexV Team"
+"DexV Team"
+"DexV Team"
+"DexV Team"
+"DexV Team"
+"DexV Team"
+"DexV Team"
+"DexV Team"
+"DexV Team"
+"DexV Team"
+"DexV Team"
+"DexV Team"
+"DexV Team"
+"DexV Team"
+"DexV Team"
+"DexV Team"
+"DexV Team"
+"DexV Team"
+"DexV Team"
+"DexV Team"
+
